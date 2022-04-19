@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignInActivity</string>
+    <string name="log_in">Log In</string>
+    <string name="password_hint">Your password</string>
+    <string name="password">Password</string>
+    <string name="user_hint">Your username</string>
+    <string name="welcome_message">"Hi. %s! Welcome to Android Kotlin"</string>
+</resources>
