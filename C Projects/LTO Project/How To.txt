@@ -1,0 +1,14 @@
+there are 5 users:
+
+
+Marcus_Eduard with a password of 000000
+
+lasalle with a password of 100
+
+hey_hey with a password of 1234
+
+pokemon with a password of 9876
+
+pacman with a password of 6789
+
+only user lasalle has the function to record violations
